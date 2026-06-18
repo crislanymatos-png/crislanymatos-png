@@ -5,7 +5,6 @@
 
 Me chamo Crislany Matos, tenho 18 anos e sou natural do Maranhão.
 Atualmente estou cursando Ciência da Computação na UFFS e desenvolvendo meus conhecimentos na área da tecnologia.
-
 Utilizo este perfil para compartilhar projetos, registrar meu aprendizado e acompanhar minha evolução acadêmica e profissional.
 
 <p align="left">
@@ -60,17 +59,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.s
 <br/>
 <br/>
 
-# 📊 Estatísticas
-
-<p>
-<img
-align="left"
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=crislanymatos&show_icons=true&theme=tokyonight&locale=pt-br"
-/>
-
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislanymatos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3"
-/>
-</p>
