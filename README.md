@@ -16,7 +16,7 @@ Utilizo este perfil para compartilhar projetos, registrar meu aprendizado e acom
         />
     </a>
 
-   <a href="https://github.com/crislanymatos?tab=followers">
+    <a href="https://github.com/crislanymatos?tab=followers">
         <img
             alt="Seguidores"
             title="Me siga no GitHub"
@@ -24,8 +24,6 @@ Utilizo este perfil para compartilhar projetos, registrar meu aprendizado e acom
         />
     </a>
 </p>
-
----
 
 # 🤖 Linguagens e Tecnologias
 
