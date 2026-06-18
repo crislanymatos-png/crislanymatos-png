@@ -2,7 +2,7 @@
 
 **`Estudante de computação`**
 
-Me chamo Crislany Matos, tenho 18 anos e sou natural do Maranhão.Atualmente estou cursando Ciência da Computação na UFFS e desenvolvendo meus conhecimentos na área da tecnologia.Utilizo este perfil para compartilhar projetos, registrar meu aprendizado e acompanhar minha evolução acadêmica e profissional.
+Me chamo Crislany Matos, tenho 18 anos e sou natural do Maranhão.Atualmente estou cursando Ciência da Computação na UFFS e desenvolvendo meus conhecimentos na área da tecnologia. Utilizo este perfil para compartilhar projetos, registrar meu aprendizado e acompanhar minha evolução acadêmica e profissional.
 
   <a href="https://github.com/Crislanymatos?tab=followers">
     <img
