@@ -19,12 +19,46 @@ Me chamo Crislany Matos, tenho 18 anos e sou natural do Maranhão.Atualmente est
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    alinhar="esquerda" 
     alt="Python"
     title="Python" 
-    width="35px" 
-    style="padding-right:10px;" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
+<img
+    alinhar="esquerda" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"      
+/>
+<img
+    alinhar="esquerda" 
+    alt="CSS"
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    alinhar="esquerda" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img
+    alinhar="esquerda" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>  
+
+
 <br/>
 <br/>
