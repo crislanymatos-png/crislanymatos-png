@@ -57,15 +57,4 @@ Me chamo Crislany Matos, tenho 18 anos e sou natural do Maranhão.Atualmente est
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img
-    alinhar="esquerda" 
-    alt="GitHub"
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>  
-
-
-<br/>
 <br/>
